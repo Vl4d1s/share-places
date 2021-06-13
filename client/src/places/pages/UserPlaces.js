@@ -12,8 +12,8 @@ const DUMMY_PLACES = [
       "https://cdn.vox-cdn.com/thumbor/MSo_R1RZWCgSwg-KVHZvW1guipw=/0x0:2000x1333/920x613/filters:focal(840x507:1160x827):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65018226/151006_19_00_22_5DSR9489.0.jpg",
     address: "20 W 34th St, New York, NY 10001",
     location: {
-      lat: "40.7484405",
-      lng: "-73.9878531",
+      lat: 40.7484405,
+      lng: -73.9878531,
     },
     creator: "u1",
   },
@@ -25,8 +25,8 @@ const DUMMY_PLACES = [
       "https://cdn.vox-cdn.com/thumbor/MSo_R1RZWCgSwg-KVHZvW1guipw=/0x0:2000x1333/920x613/filters:focal(840x507:1160x827):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65018226/151006_19_00_22_5DSR9489.0.jpg",
     address: "20 W 34th St, New York, NY 10001",
     location: {
-      lat: "40.7484405",
-      lng: "-73.9878531",
+      lat: 40.7484405,
+      lng: -73.9878531,
     },
     creator: "u2",
   },
